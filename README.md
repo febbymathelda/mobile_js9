@@ -8,6 +8,10 @@ NIM : 2241720067
 
 1. Selesaikan Praktikum 1 dan 2, lalu dokumentasikan dan push ke repository Anda berupa screenshot setiap hasil pekerjaan beserta penjelasannya di file README.md! Jika terdapat error atau kode yang tidak dapat berjalan, silakan Anda perbaiki sesuai tujuan aplikasi dibuat!
 
+link repo praktikum 1: https://github.com/febbymathelda/kamera_flutter
+
+link repo praktikum 2: https://github.com/febbymathelda/photo_filter_carousel
+
 2. Gabungkan hasil praktikum 1 dengan hasil praktikum 2 sehingga setelah melakukan pengambilan foto, dapat dibuat filter carouselnya!
 
 Jawab:
